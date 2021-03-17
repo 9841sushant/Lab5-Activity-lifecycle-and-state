@@ -1,6 +1,10 @@
 # Lab5-Activity lifecycle and state
-### Task2
-![](./L5task2ss1.jpg)
-### Reply restored in landscape
-![](./L5task2ss2.jpg)
+## Coding challenge
+### App screenshot
+![](./lab5cc1.jpg)
+### SecondActivity with the item list
+![](./lab5cc2.jpg)
+### Items added in MainActivity
+![](./lab5cc3.jpg)
+
 
