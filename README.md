@@ -3,3 +3,5 @@
 ![](./L5hwss1.jpg)
 ### count value saved in landscape
 ![](./L5hwss2.jpg)
+### GIF
+![GIF](lab5gif.gif)
